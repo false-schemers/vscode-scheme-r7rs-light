@@ -1,0 +1,23 @@
+{
+    "name": "scheme-r7rs-light",
+    "displayName": "scheme-r7rs-light",
+    "description": "Light Theme for R7RS Scheme Language Extension",
+    "version": "0.0.1",
+    "publisher": "dermagen",
+    "icon": "images/lambda.png",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light (R7RS Scheme)",
+                "uiTheme": "vs",
+                "path": "./themes/scheme-r7rs-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./schemeLight.tmTheme",
+	"colors": {
+		"editor.background": "#FFFFFF",
+		"editorCursor.foreground": "#000000",
+		"editor.foreground": "#000000",
+		"editorWhitespace.foreground": "#BFBFBF",
+		"editor.lineHighlightBackground": "#00000012",
+		"editor.selectionBackground": "#9DA7C3"
+	},
+	"name": "schemeLight"
+}
